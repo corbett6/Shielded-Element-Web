@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ShieldFontAlpha';
+    src: url('shieldfont-alpha.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.mx_EventTile_body {
+    font-family: 'ShieldFontAlpha', sans-serif !important;
+}
